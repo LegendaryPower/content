@@ -28,20 +28,20 @@
     winston "3.2.1"
     wrap-ansi "^6.2.0"
 
-"@mdn/browser-compat-data@3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.0.0.tgz#023f7057e75ac26adb3546a4f43450caadcf5ccc"
-  integrity sha512-J2kn2zBbgAvOoHRiPikMnZWJ8qWKrpdlHepoozYbTbwwUGrFXP4opIitH8Dn68e36nUrhUu/NL4lGq7ZOqh+xg==
+"@mdn/browser-compat-data@3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@mdn/browser-compat-data/-/browser-compat-data-3.0.1.tgz#2a4e6aeb4ddc627075f18c02f5abf71a3254a85f"
+  integrity sha512-m8uDiEsOz6n543SbQYoWG5s0/vHEw6B+57Px05HOVX+aiBUhp/RGtyB8vTjU0lDJea79crk6ovpvsHDaa3Vq4g==
   dependencies:
     extend "3.0.2"
 
-"@mdn/yari@0.1.394":
-  version "0.1.394"
-  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.1.394.tgz#3e29d1d518b670456fefc920bf1b640ca817f543"
-  integrity sha512-aXDyHnX3xV2BkkHFDZ6ycpKrJoesrv9HqV/fZsh/HbD2YtjOkPcYTpD3jqT+s0aaGPgPtYDR2piBgfIDLds2dw==
+"@mdn/yari@0.1.420":
+  version "0.1.420"
+  resolved "https://registry.yarnpkg.com/@mdn/yari/-/yari-0.1.420.tgz#e47b5f3ce41d5e4b8bbd730a19ca463214cf62b5"
+  integrity sha512-NTPlvxvdT7eyaAIBEU8IJwWMnPjLrZZdXQVCjWFpLcFUw8GGn6xeZHUbZqAcTSeFSzTLF8c7ICLFHpSzz4uQNQ==
   dependencies:
     "@caporal/core" "2.0.2"
-    "@mdn/browser-compat-data" "3.0.0"
+    "@mdn/browser-compat-data" "3.0.1"
     accept-language-parser "1.5.0"
     braces "^3.0.2"
     chalk "4.1.0"
@@ -85,7 +85,7 @@
     send "0.17.1"
     sockette "^2.0.6"
     source-map-support "0.5.19"
-    swr "0.3.9"
+    swr "0.3.11"
     tempy "1.0.0"
     use-debounce "^5.2.0"
     webpack-cli "4.2.0"
@@ -4056,10 +4056,10 @@ svgo@^1.3.2:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-swr@0.3.9:
-  version "0.3.9"
-  resolved "https://registry.yarnpkg.com/swr/-/swr-0.3.9.tgz#a179a795244c7b68684af6a632f1ad579e6a69e0"
-  integrity sha512-lyN4SjBzpoW4+v3ebT7JUtpzf9XyzrFwXIFv+E8ZblvMa5enSNaUBs4EPkL8gGA/GDMLngEmB53o5LaNboAPfg==
+swr@0.3.11:
+  version "0.3.11"
+  resolved "https://registry.yarnpkg.com/swr/-/swr-0.3.11.tgz#f7f50ed26c06afea4249482cec504768a2272664"
+  integrity sha512-ya30LuRGK2R7eDlttnb7tU5EmJYJ+N6ytIOM2j0Hqs0qauJcDjVLDOGy7KmFeH5ivOwLHalFaIyYl2K+SGa7HQ==
   dependencies:
     dequal "2.0.2"
 
